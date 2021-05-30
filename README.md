@@ -2,6 +2,6 @@
 
 This is the code for LineDetective_Robot in the competition in 2018
 
-Thanks to: SaigonTech's library - STTODRobot
+Thanks to: SaigonTech
 
-This includes INO file and STTODRobot library
+This includes INO file, Pascal file and STTODRobot library
