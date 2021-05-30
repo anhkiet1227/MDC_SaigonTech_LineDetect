@@ -1,4 +1,4 @@
-# Omni_Line_C_2018
+# Omni_Line_C_and_Pascal_2018
 
 This is the code for LineDetection_Robot in the competition in 2018
 
